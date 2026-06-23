@@ -1,4 +1,4 @@
-# 🛡️ Project#3 : Phishing Email Investigation Lab  
+# 🛡️  Phishing Email Investigation Lab  #
 
 ## 🎯 Objective  
 Analyze a phishing email sample with the malicious domain **`xtbmondo.com`** and IP **`143.92.60.168`** to identify spoofing, malicious indicators, and attacker intent.  
